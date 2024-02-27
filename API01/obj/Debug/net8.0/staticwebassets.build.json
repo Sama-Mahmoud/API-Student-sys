@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ASafxwDC0DwxF+uZxvnyChN007NhYNxwoG7riTHuhQY=",
+  "Source": "API01",
+  "BasePath": "_content/API01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API01\\wwwroot",
+      "Source": "API01",
+      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\API01\\API01\\wwwroot\\",
+      "BasePath": "_content/API01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
